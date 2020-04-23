@@ -42,6 +42,7 @@ print()
 print()
 print(parrot[-5:])
 print()
+
 print()
 
 print(parrot[:6] + parrot[6:])
