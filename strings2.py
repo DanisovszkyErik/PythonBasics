@@ -52,6 +52,7 @@ print(parrot[:6-14] + parrot[6-14:])
 print(parrot[:])
 
 
+
 letters = "abcdefghijklmnopqrstuvwxyz"
 
 
